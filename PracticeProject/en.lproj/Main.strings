@@ -1,0 +1,18 @@
+
+/* Class = "UINavigationItem"; title = "MemoList"; ObjectID = "2PL-xG-Jlu"; */
+"2PL-xG-Jlu.title" = "MemoList";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "5yN-B8-YRi"; */
+"5yN-B8-YRi.text" = "Title";
+
+/* Class = "UILabel"; text = "Memo"; ObjectID = "83y-Ci-W2z"; */
+"83y-Ci-W2z.text" = "Memo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KgS-df-qU2"; */
+"KgS-df-qU2.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Memo"; ObjectID = "cQs-3k-l5z"; */
+"cQs-3k-l5z.title" = "Memo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x9t-qT-0DY"; */
+"x9t-qT-0DY.text" = "Label";
